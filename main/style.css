@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css?family=Ravi+Prakash|Roboto+Slab:300,400&subset=cyrillic-ext");
+body {
+  width: 1340px;
+}
+
+#color1 {
+  color: #235698;
+}
+
+#color2 {
+  color: #235698;
+}
+
+#color3 {
+  border-color: lightgrey;
+}
+
+#color4 {
+  border-color: lightgrey;
+  background-color: lightgrey;
+}
+
+#friend-list {
+  background-color: #fff3d5;
+  width: 18em;
+}
+
+#searchbar {
+  font-family: "Roboto-slab";
+  color: #000000;
+}
+
+.mainLoginInput {
+  font-family: "ravi-prakash", ariel;
+  font-style: italic;
+  font-weight: bold;
+  color: #000000;
+  height: 25px;
+  width: 19em;
+  border-radius: 5px 5px 5px 5px;
+}
+
+#header-item {
+  background-color: #3B5998;
+}
+
+#header-item .clearfix .left {
+  color: #ffffff;
+  font-size: 60px;
+}
+
+#header-item .clearfix .right .list-reset {
+  color: #ffffff;
+  font-family: "Roboto-slab";
+}
+
+#header-item .clearfix .mainLoginInputhead {
+  font-family: "ravi-prakash", ariel;
+  font-style: italic;
+  font-weight: bold;
+  color: #000000;
+  height: 25px;
+  width: 25em;
+  border-radius: 5px 5px 5px 5px;
+}
+
+#first-column {
+  background-color: #DEEBF5;
+}
+
+.name {
+  color: #000000;
+  font-family: "Roboto-slab";
+}
+
+#icon-black {
+  color: #3B5998;
+}
+
+.btn {
+  background-color: #4060A5;
+  font-family: "Roboto-slab";
+  border-color: #DEEBF5;
+  font-color: #ffffff;
+  border-radius: 8px 8px 8px 8px;
+  height: 40px;
+}
+
+#menu-item {
+  color: #3B5998;
+  padding-top: 2%;
+}
+
+#pa-top {
+  padding-top: 1%;
+}
+
+#pa-top5 {
+  padding-top: 5%;
+}
+
+#pa-bott {
+  padding-bottom: .5%;
+}
+
+#second-column {
+  background-color: #ffffff;
+}
+
+#second-column .col-12 .right {
+  color: #3B5998;
+  padding-left: 10%;
+}
+
+#second-column .col-12 #pa-left {
+  padding-left: 5px;
+}
+
+#second-column .col-12 #address-1 {
+  color: #ffffff;
+}
+
+#second-column .col-12 #address {
+  color: #6d84b4;
+}
+
+#last-footer {
+  min-height: 12em;
+  background-color: #DEEBF5;
+}
